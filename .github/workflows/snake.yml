@@ -13,15 +13,19 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install matplotlib numpy
 
       - name: Generate Snake Animation
         run: |
-          mkdir -p dist
-          curl -s https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg -o dist/snake.svg
+          curl -o contrib_snake.py https://raw.githubusercontent.com/Platane/snk/main/generate.py
+          python contrib_snake.py --user-name FRANCISCODANIEL03 --output dist/snake.svg
 
       - name: Verify Snake Animation
         run: |
