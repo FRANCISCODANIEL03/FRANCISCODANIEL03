@@ -13,11 +13,22 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2
         with:
-          github_user_name: FRANCISCODANIEL03
-          output: dist/snake.svg
+          node-version: '14'
+
+      - name: Generate Snake Animation
+        run: |
+          mkdir -p dist
+          curl -s https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg -o dist/snake.svg
+
+      - name: Verify Snake Animation
+        run: |
+          if [ ! -f dist/snake.svg ]; then
+            echo "Snake animation not generated"
+            exit 1
+          fi
 
       - name: Add & Commit Snake Animation
         run: |
