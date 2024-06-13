@@ -13,36 +13,21 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install matplotlib numpy
-
       - name: Generate Snake Animation
-        run: |
-          curl -o contrib_snake.py https://raw.githubusercontent.com/Platane/snk/main/generate.py
-          python contrib_snake.py --user-name FRANCISCODANIEL03 --output dist/snake.svg
-
-      - name: Verify Snake Animation
-        run: |
-          if [ ! -f dist/snake.svg ]; then
-            echo "Snake animation not generated"
-            exit 1
-          fi
+        uses: Platane/snk@v2.0.1
+        with:
+          github_user_name: FRANCISCODANIEL03
+          output: dist/snake.svg
 
       - name: Add & Commit Snake Animation
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist/snake.svg
-          git commit -m "Generate snake animation"
+          git commit -m "Generate snake animation" || echo "No changes to commit"
 
       - name: Push to GitHub
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
