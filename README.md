@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ## Snake eating my contributions
-
-
-![snake gif](https://github.com/FRANCISCODANIEL03/FRANCISCODANIEL03/blob/output/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/FRANCISCODANIEL03/FRANCISCODANIEL03/main/github-contribution-grid-snake-dark.svg)
 
 <!--
 **FRANCISCODANIEL03/FRANCISCODANIEL03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
