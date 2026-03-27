@@ -16,13 +16,12 @@
 ✔ Ask me anything about: Archcraft/Openbox customization, Arduino/Microcontrollers, or FastAPI & Next.js<br>
 ✔ Fun fact: I spend hours making my Arch Linux look like macOS just to feel the aesthetic while I'm debugging in the terminal<br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack ....*** <br><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThhbnlibjVreXlxa3A0dXVyZDdoZm8ybW10YXU5Zmpjb3dnY3Y1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2AjwKqoBdgRDIN6wI9/giphy.gif" width="30px">&nbsp;***Tech Stack ....*** <br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats: ....*** <br><br>
-![](https://github-readme-stats.vercel.app/api?username=FRANCISCODANIEL03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FRANCISCODANIEL03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISCODANIEL03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FRANCISCODANIEL03&theme=github_dark)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FRANCISCODANIEL03&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 
 ### ✍️ Random Dev Quote
@@ -30,8 +29,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FRANCISCODANIEL03&icon=3&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🐍 Snake eating my contributions
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNxbHRobHBxYWhtcjU4YWVlN2l4dmxzMDA4eTJmbjMwNDdoczVwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jxJjBMvqEvMSA/giphy.gif" width="40px">&nbsp;  ***Snake eating my contributions*** <br><br>
 ![Snake animation](https://raw.githubusercontent.com/FRANCISCODANIEL03/FRANCISCODANIEL03/output/github-contribution-grid-snake-dark.svg)
