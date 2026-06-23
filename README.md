@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxbHdpOHoyeW50NTdwNXRkcHZ3eTBudW9mempxYjR0aHA4eXdjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xFkgeu7dhfgqqxJqmj/giphy.gif" width="50px">&nbsp;  ***About me ....***
 
-✔ Call me: He/Him or Systems Engineer<br>
+✔ Call me: He/Him or Systems Engineer coming soon<br>
 ✔ I’m currently developing: isverceo, a custom web hosting service with Docker Swarm and Traefik<br>
 ✔ I’m currently learning about: Cybersecurity and Pentesting, focusing on injection attacks (SQL, NoSQL, GraphQL)<br>
 ✔ I’m looking to collaborate with: Open-Source Distributed Systems and Flutter-based mobile applications<br>
